@@ -1,7 +1,5 @@
 # Hi, I'm Eldar 👋
 
-### Data Analyst with Quality management background and experience in Consulting.
-
 You can check out my LinkedIn for more information. Feel free to connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ekhurmamatov/)
